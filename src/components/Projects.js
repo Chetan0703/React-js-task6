@@ -15,13 +15,13 @@ export const Projects = () => {
       title: 'Movie Recommender System',
       description: 'Machine Learning',
       imgUrl: projImg1,
-      gitLink: 'https://github.com/MitBhardiwala/st-movie-recommender-system',
+      gitLink: '',
     },
     {
       title: 'SuperMarket Management System',
       description: 'Python MySql',
       imgUrl: projImg2,
-      gitLink: 'https://github.com/MitBhardiwala/SuperMarket-Management-System',
+      gitLink: '',
     },
   ];
 
